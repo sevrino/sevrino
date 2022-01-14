@@ -16,7 +16,7 @@ I'm noob Korean student developer.
 ------
 Available Programming Languages : Python
 
-Studing Programming Languages : Python, JavaScript, Node.js
+Studing Programming Languages : Python, Go, JavaScript, Node.js
 
 Planning to Study Programming Languages : C, C#, Java, Go
 
