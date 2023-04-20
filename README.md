@@ -1,4 +1,4 @@
-sevrino
+sevrino | Jayoung Shin
 ------
 I'm noob Korean student developer.
 
